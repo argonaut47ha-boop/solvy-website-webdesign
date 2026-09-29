@@ -44,3 +44,27 @@ input:focus,select:focus,textarea:focus{outline:2px solid var(--brand);border-co
 footer{border-top:1px solid var(--line);padding:36px 0;color:var(--muted);font-size:.9rem}
 footer .wrap{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
 @media(max-width:720px){nav a:not(.btn){display:none}section{padding:52px 0}}
+/* v2 additions */
+.hero-grid{display:grid;gap:40px;grid-template-columns:1.1fr .9fr;align-items:center}
+@media(max-width:860px){.hero-grid{grid-template-columns:1fr}}
+.hero{background:radial-gradient(900px 400px at 85% -10%,rgba(11,95,255,.14),transparent 60%)}
+.chat{border:1px solid var(--line);border-radius:20px;background:var(--bg);box-shadow:0 20px 60px rgba(11,95,255,.15);overflow:hidden}
+.chat header{padding:14px 18px;background:var(--brand);color:#fff;font-weight:700;display:flex;gap:10px;align-items:center}
+.chat header i{width:9px;height:9px;border-radius:50%;background:#3ddc84;display:inline-block}
+.chat .msgs{padding:18px;display:grid;gap:10px;min-height:250px;align-content:start}
+.msg{max-width:85%;padding:10px 14px;border-radius:14px;font-size:.93rem;animation:up .4s both}
+.msg.u{justify-self:end;background:var(--soft);border:1px solid var(--line)}.msg.b{background:rgba(11,95,255,.1)}
+@keyframes up{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.glass{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--line);border:1px solid var(--line);border-radius:var(--r);overflow:hidden;margin-top:40px}
+.glass div{background:var(--bg);padding:18px}.glass b{display:block;font-size:1.7rem;letter-spacing:-.02em}.glass span{font-size:.85rem;color:var(--muted)}
+.tiers{display:grid;gap:20px;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));margin-top:36px;align-items:stretch;text-align:left}
+.tier{border:1px solid var(--line);border-radius:20px;padding:30px;background:var(--bg);display:flex;flex-direction:column}
+.tier.pop{border:2px solid transparent;background:linear-gradient(var(--bg),var(--bg)) padding-box,conic-gradient(from var(--a,0deg),var(--brand),var(--accent),var(--brand)) border-box;animation:spin 6s linear infinite}
+@property --a{syntax:"<angle>";inherits:false;initial-value:0deg}@keyframes spin{to{--a:360deg}}
+.tier h3{font-size:1.3rem}.tier .amt{font-size:2.6rem;font-weight:800;letter-spacing:-.03em}.tier .amt small{font-size:.95rem;color:var(--muted);font-weight:500}
+.tier ul{list-style:none;padding:0;margin:18px 0 24px;flex:1}.tier li{padding:6px 0;font-size:.95rem}.tier li:before{content:"✓ ";color:var(--brand);font-weight:700}
+.tier .btn{text-align:center}.tier .sub{color:var(--muted);font-size:.9rem;min-height:2.8em}
+.addons{display:grid;gap:14px;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));margin-top:26px}
+.guarantee{display:flex;gap:16px;align-items:center;border:1px dashed var(--brand);border-radius:var(--r);padding:20px 24px;margin-top:32px;background:var(--soft);text-align:left}
+.guarantee b{font-size:1.05rem}.tag{font-size:.75rem;background:var(--soft);border:1px solid var(--line);padding:2px 8px;border-radius:99px;color:var(--muted)}
+.prose{max-width:760px}.prose h2{margin-top:1.6em;font-size:1.4rem}.prose p,.prose li{color:var(--muted)}
