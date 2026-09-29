@@ -16,28 +16,33 @@ Two hubs. Do **not** claim "local roots" in both. Say "serving Central Florida a
 - **North Alabama (Huntsville, AL):** Huntsville, Madison, Athens, Decatur, Hampton Cove (Madison County).
 - Target clients: home services (roofing, pool, lawn, HVAC, trades) and similar local service businesses.
 
-## 3. Pricing (current decision)
+## 3. Pricing (current decision, updated after competitor review)
 
-| Package | Monthly | Setup | Includes |
+| Package | Monthly | Down | Includes |
 |---|---|---|---|
-| **Foundation** | $149 | $499 | Custom site, managed hosting and backups, Google Analytics 4 + Search Console setup, on-page SEO/AEO basics, website chatbot, weekly blog content, local city pages, monthly report |
-| **Growth** (most popular) | $299 | $499 | Foundation + monthly SEO/AEO optimization, Google Business Profile management, review-request automation, citation cleanup, ranking and AI-visibility reporting |
-| **Operator** | $449 | $799 | Growth + knowledge assistant (internal AI trained on the client's SOPs, price lists, FAQs), quarterly systems review, priority support |
+| **Foundation** | $149 | $0 on a 12-month term, or $499 setup month-to-month | Custom site (up to 6 pages) plus local city pages, managed hosting and backups, GA4 + Search Console setup, on-page SEO/AEO basics, website chatbot, weekly blog content, small edits (up to 60 min/mo), monthly report |
+| **Growth** (most popular) | $349 | $0 on a 12-month term | Foundation + unlimited edits (fair use), monthly SEO/AEO optimization, Google Business Profile management, review-request automation, citation cleanup, ranking and AI-visibility reporting |
+| **Operator** | $499 | $500 one-time assistant onboarding | Growth + knowledge assistant (internal AI trained on the client's SOPs, price lists, FAQs), quarterly systems review, priority support |
 
 - **Founding rate** is locked for life for the **first 10 clients per market** (20 total).
-- **Pilot option (owner willing to cut early):** first 5 clients per market at $0-$299 setup + $149/mo in exchange for a testimonial and case-study rights. These become the portfolio.
-- **Standard rate after founding window:** Foundation $999 setup + $229/mo. Growth/Operator standard rates still undecided (currently "quoted at signup").
-- **Guarantee:** 30-day money-back on the setup fee. **No ranking or AI-citation guarantees.** Promise the work and the reporting.
-- **Published buyout schedule** so clients aren't locked in. Suggested: $1,500 in year one, declining each year. **Not final.**
-- Do not go below $149/mo (looks like a DIY builder and cannot fund weekly content).
-- Possible later upsells: Google Business Profile management ($99/mo standalone), review automation ($49/mo standalone).
+- **Standard rates after founding window:** Foundation $199/mo, Growth $449/mo, Operator $649/mo.
+- **Pilot option:** first 5 clients per market at $0 down + $149/mo in exchange for a testimonial and case-study rights. These become the portfolio.
+- **Contract:** $0-down plans have a 12-month minimum, then month-to-month with no fees (matches every competitor reviewed). Paying the $499 Foundation setup keeps the client month-to-month.
+- **Guarantee:** 30-day trial after launch. Cancel within 30 days of going live and owe nothing more (beats Golden Coast's 14 days). **No ranking or AI-citation guarantees.**
+- **Ownership:** client owns domain (registered in their name), content, and brand. Custom code stays with us unless bought out. **Buyout schedule numbers not final** (suggested $1,500 in year one, declining).
+- Extra pages beyond 6: quote per page (Golden Coast charges $99/page for reference).
+- Do not go below $149/mo.
+- Possible later upsells: standalone Google Business Profile management ($99/mo), review automation ($49/mo).
 
-### Market research summary (checked Sep 2026, from vendor pages and search snippets, not quotes)
-- DIY builders (Wix, Squarespace, GoDaddy): about $11-$99/mo, client does the work.
-- Huntsville freelancers/templates: $599-$1,299 setup, hosting from $79/mo. A direct rival offers custom code at $0 down + $175/mo. An AI-site rival charges $600 + $150/mo.
-- Central Florida agencies: $4,000-$15,000 setup, often $300-$1,500/mo retainers.
-- Managed optimization subscriptions: $225-$499/mo.
-- Conclusion: $149/mo is at or below direct competitors and far below agencies. The bundle (weekly content, chatbot, city pages, analytics, AEO) is the differentiator. Setup fee is the weak spot, hence the pilot and guarantee. **Recommended follow-up:** call 3 competitors per market as a mystery shopper to verify.
+### Competitor research (checked Sep 2026; pages opened and read)
+- **Golden Coast Digital** (goldencoastdigital.com): $150/mo, $0 down, 12-month minimum, only 3 pages, extra pages $99, blogs are custom quotes, unlimited edits, 14-day trial, 3-6 week delivery, dedicated SEO campaign add-on $2,500+/mo.
+- **Green Cove Digital** (greencovedigital.com): $180/mo, $0 down, 12-month commitment then monthly, custom copy written for you, 2-4 weeks, domain/content go with client, code stays with builder.
+- **Media Express / itguy.services** (Chicago): Starter $199, Professional $349 (GA4, blog), Growth $499 (AEO, suburb pages, AI chat), Premium $749, Enterprise $1,250. $0 down, setup waived on Growth+ with 12-month agreement.
+- **Lifted Websites** (liftedwebsites.com): from $200/mo (WordPress), Growth $500 with 2 blog posts/month, no contracts. Sells AEO/GEO and local SEO as separate services.
+- **CodeWays** ($97/mo, no setup), **Mr.Site** ($0 setup), **RateGather** ($33/mo hosting only), **Surmado** ($99-$150/mo).
+- Central Florida agencies: $4,000-$15,000 setup, often $300-$1,500/mo retainers. Huntsville freelancers: $599-$1,299 setup, hosting from $79/mo.
+- AEO/GEO retainers for small business start around $590/mo elsewhere.
+- **Takeaways:** $0 down + 12-month term is the market norm. No one found bundles weekly blog + chatbot + analytics + city pages at $150-$200, and no one offers a knowledge assistant. Still worth mystery-shopping 3 competitors per market.
 
 ## 4. Positioning and voice
 
@@ -51,7 +56,7 @@ Two hubs. Do **not** claim "local roots" in both. Say "serving Central Florida a
 
 **Home (`/`)** sections, in order:
 1. Sticky header: logo, Services, How it works, Pricing, FAQ, "Free Audit" button.
-2. Hero: eyebrow "Central Florida & North Alabama", H1 "Run on systems. Not on guesswork.", subhead, CTAs (Get my free audit / See pricing), checks (Branded PDF in 48 hours / No credit card / 30-day money-back guarantee), 3-stat strip, and a mock chatbot panel ("Ask Riverside Roofing", scripted 4-message exchange about emergency tarps).
+2. Hero: eyebrow "Central Florida & North Alabama", H1 "Run on systems. Not on guesswork.", subhead, CTAs (Get my free audit / See pricing), checks (Branded PDF in 48 hours / No credit card / 30-day trial after launch), 3-stat strip, and a mock chatbot panel ("Ask Riverside Roofing", scripted 4-message exchange about emergency tarps).
 3. Why us (3 cards): custom code not templates; you see the numbers; a real person answers.
 4. Services (8 cards): custom website, managed hosting, GA4 + Search Console, SEO, AEO and AI search, website chatbot, knowledge assistant, weekly content.
 5. How it works (3 steps): free audit, we build, approve and launch.
@@ -94,7 +99,6 @@ Two hubs. Do **not** claim "local roots" in both. Say "serving Central Florida a
 1. Final brand name, then check domain and trademark.
 2. Real contact email, phone, and any physical address (per hub).
 3. Buyout schedule numbers.
-4. Standard rates for Growth and Operator.
 5. Attorney review of terms page and service agreement.
 6. Build one real demo site for a local business (pool, lawn, roofing) as the first portfolio piece.
 7. Write the audit PDF template (speed, SEO, schema, Google Business Profile, AI-search readiness, prioritized fix list) linking to the paid tiers.
